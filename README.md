@@ -1,8 +1,13 @@
 # Container
 
-This is the sample code from the [How to create your own containers](https://cesarvr.io/post/2018-05-22-create-containers/) blog post. 
+This is the sample code for the blog post I wrote on how to create a your own [containerization engine](https://cesarvr.io/post/2018-05-22-create-containers/) (similar to Podman / Docker). 
 
-To run this example just need g++, gcc, make and of course Linux 2.5.+. 
+To run this example just need to make sure you have this components: 
+
+- g++
+- gcc
+- make
+- And of course a Linux 2.5.+ or above. 
 
 ```sh
 git clone https://github.com/cesarvr/container
